@@ -12,6 +12,14 @@ header {
 	background: hsla(218,44%,55%,1.00);
 }
 
+.home {
+	padding-left: 20px;
+}
+
+button {
+	align-content: right;
+}
+
 nav {
 	background: hsla(218,44%,55%,1.00);
 }
