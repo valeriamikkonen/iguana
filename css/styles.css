@@ -8,15 +8,31 @@
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
 
+header {
+	background: hsla(218,44%,55%,1.00);
+}
+
+nav {
+	background: hsla(218,44%,55%,1.00);
+}
+
 .carousel {
 	padding: 30px;
 	margin: auto;
 	align-content: center;
 	width: 60%;
-
 }
+
+h2 {
+	color: hsla(218,44%,55%,1.00);
+}
+
 .courses {
 	padding-bottom: 20px;
+}
+
+.star {
+	color: goldenrod;
 }
 
 footer {
