@@ -1,3 +1,5 @@
+/*color nav bar & our goal: #acd0be
+colors used in logo: #acd0be, #6ad892, #67d891;*/ 
 @charset "utf-8";
 
 * { 
@@ -21,7 +23,7 @@ button {
 }
 
 nav {
-	background: hsla(218,44%,55%,1.00);
+	background: #acd0be;
 }
 
 .carousel {
