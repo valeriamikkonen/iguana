@@ -33,7 +33,7 @@ nav {
 }
 
 h2 {
-	color: hsla(218,44%,55%,1.00);
+	color: black;
 }
 
 .courses {
@@ -47,7 +47,7 @@ h2 {
 footer {
 	width: 100%;
 	padding: 10px;
-	background: hsla(218,44%,55%,1.00);
+	background: #acd0be;
 }
 .logo { 
 	text-align: center;
