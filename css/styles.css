@@ -18,6 +18,7 @@ header {
 
 button {
 	align-content: right;
+	color: white;
 }
 
 nav {
@@ -53,7 +54,4 @@ footer {
 }
 .jumbotron {
 	background-color: #acd0be;
-}
-#color-button {
-	color: #67d891; 
 }
