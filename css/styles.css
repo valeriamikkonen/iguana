@@ -1,7 +1,5 @@
 /*color nav bar & our goal: #acd0be
 colors used in logo: #acd0be, #6ad892, #67d891;*/ 
-@charset "utf-8";
-
 * { 
 	text-align: center;
 	margin: 0px;
@@ -55,4 +53,7 @@ footer {
 }
 .jumbotron {
 	background-color: #acd0be;
+}
+#color-button {
+	color: #67d891; 
 }
