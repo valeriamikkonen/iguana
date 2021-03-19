@@ -56,3 +56,18 @@ footer {
 .jumbotron {
 	background-color: #acd0be;
 }
+.image {
+	height: 200px;
+}
+.description-margin {
+	margin-top: 50px; 
+}
+p {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+h1 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
