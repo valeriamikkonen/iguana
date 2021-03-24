@@ -1,4 +1,4 @@
-@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";@charset "utf-8";/*color nav bar & our goal: #acd0be
+/*color nav bar & our goal: #acd0be
 colors used in logo: #acd0be, #6ad892, #67d891;*/ 
 * { 
 	text-align: center;
@@ -78,4 +78,7 @@ h1 {
 .text-about-us {
 	margin-left: 50px;
 	margin-right: 50px;
+}
+.search-bar {
+	text-align: center;
 }
