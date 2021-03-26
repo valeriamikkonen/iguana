@@ -21,11 +21,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
 	
-<title>Iguana - Thank you</title>
+<title>Iguana - Profile</title>
 </head>
-	
+
 <body>
-  <header>
+   <header>
 	<div class="row">
       <div class="col-sm-12 offset-xl-0">
 		  <img src="images/logo_iguana.jpg" class="img-fluid logo" alt="Iguana Logo" width="720">
@@ -33,7 +33,7 @@
 	</div>
   </header>
 	
-<!-- navigation starts -->
+	<!-- navigation starts -->
 <nav class="navbar navbar-expand-lg navbar-light ">
   <a class="navbar-brand home" href="https://valeriamikkonen.github.io/iguana/index.html">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,40 +44,79 @@
       <li class="nav-item active">
         <a class="nav-link" href="content.html">Content <span class="sr-only">(current)</span></a>
       </li>
-       <li class="nav-item">
+      <li class="nav-item">
         <a class="nav-link" href="">Help Desk</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="profile.html">Profile</a>
       </li>
-	   <li class="nav-item">
+	    <li class="nav-item">
         <a class="nav-link" href="https://valeriamikkonen.github.io/iguana/login.html">log in</a>
       </li>
     </ul>
   </div>
 </nav>
 <!-- navigation ends -->
+
 	
-<!-- jumbotron starts -->
-<div class="background-thanks">
-<div class="jumbotron">
-  <h1 class="display-4">Thank you for your purchase</h1>
-  <p class="lead text-thanks">You can now follow this course on your own pace. Need any help? Let us know!</p>
-  <hr class="my-4">
-  <p>Optional text</p>
-  <a class="btn btn-light btn-lg" href="https://valeriamikkonen.github.io/iguana/login.html" role="button">View Profile</a>
+<!-- faq title starts -->
+<div class="container yourcourses-title"> 
+	<div class= "row">
+		<div class="col-12">
+			<h1 class="size-title">Frequently asked questions</h1>
+		</div>
+	</div>
 </div>
-<!-- jumbotron ends -->
+<!-- faq title ends -->
+
+<!-- questions start -->
+<!-- questions end -->
 	
-<!-- footer starts -->
+<!-- contact us title starts -->
+<div class="container yourcourses-title"> 
+	<div class= "row">
+		<div class="col-12">
+			<h1 class="size-title">Contact Us</h1>
+		</div>
+	</div>
+</div>
+<!-- contact us title ends -->
+	
+<!-- contact box starts -->
+	<div class="contact-us">
+  <form action="action_page.php">
+
+
+  <div class="form-group">
+    <label for="fname">First Name</label>
+    <input type="text" name="firstname" placeholder="John">
+  </div>
+	
+  <div class="form-group">
+    <label for="lname">Last Name</label>
+    <input type="text" name="lastname" placeholder="Smith">
+  </div>
+
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+  </div>
+
+  <div class="form-group">
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+  </div>
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+<!-- contact box ends -->
+	
 	<footer> 
 	  <div class="row container">
 	    <p class="col-sm4">&copy; 2021 Iguana</p>
 	  </div>
 	</footer>
-</div>
-<!-- footer ends -->
-	
 <!-- Optional JavaScript -->
 <!-- jQuery first (Popper.js is includedin the Bootstrap JS) then Bootstrap JS -->
 	<script src="js/jquery-3.5.1.slim.min.js"></script>
