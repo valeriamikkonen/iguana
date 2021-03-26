@@ -104,6 +104,14 @@ h1 {
 .text-thanks {
 	margin-top: 70px; 
 }
+
 .background-thanks {
 	background-color: #acd0be;
+}
+
+.login {
+    width: 100%;
+    text-align: center;
+	margin-top: 40px;
+	margin-bottom: 100px;
 }
