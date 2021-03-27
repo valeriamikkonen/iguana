@@ -155,9 +155,12 @@ input[type=text], select, textarea {
 .background-about {
 	background-color: #acd0be;
 	margin-bottom: 100px;
-	margin-top: 50px;
 }
 
 .background-home {
 	background-color: #acd0be;
+}
+
+.padding-about {
+	padding-top: 40px;
 }
