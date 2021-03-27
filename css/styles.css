@@ -65,13 +65,13 @@ footer {
 	margin-top: 50px; 
 }
 p {
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-family: 'Noto Sans JP', sans-serif;
 }
 h2 {
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-family: 'Noto Sans JP', sans-serif;
 }
 h1 {
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-family: 'Noto Sans JP', sans-serif;
 }
 .trending-margin {
 	margin-bottom: 50px;
