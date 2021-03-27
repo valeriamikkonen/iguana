@@ -156,3 +156,7 @@ input[type=text], select, textarea {
 	background-color: #acd0be;
 	margin-bottom: 100px;
 }
+
+.background-home {
+	background-color: #acd0be;
+}
