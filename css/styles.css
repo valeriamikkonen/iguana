@@ -262,3 +262,12 @@ input[type=text], select, textarea {
     text-align: center;
 	margin-bottom: 62px;
 }
+
+/* end login page */
+
+/* video page */
+
+.video {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
