@@ -111,14 +111,6 @@ h1 {
 	background-color: #acd0be;
 }
 
-.login {
-    width: 100%;
-    text-align: center;
-	margin-top: 40px;
-	margin-bottom: 100px;
-}
-
-
 /* Purchase page css */
 /*cart items*/
 
@@ -248,4 +240,26 @@ input[type=text], select, textarea {
 
 .padding-about {
 	padding-top: 40px;
+}
+
+/*login page*/
+.loginpage {
+	background-color: #acd0be;
+}
+
+.loginbar {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.loginbutton {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.login {
+    width: 100%;
+    text-align: center;
+	margin-top: 100px;
+	margin-bottom: 263px;
 }
