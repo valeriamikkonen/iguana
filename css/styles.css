@@ -266,7 +266,8 @@ td img{
 /* end video page */
 
 .yourcourses-title {
-	padding: 35px;
+	padding: 30px;
+	font-size: 40px;
 }
 
 li {
@@ -288,3 +289,9 @@ li {
 	border: 5px dotted black;
 }
 
+.socials {
+	width: 20px;
+	height: 20px;
+	text-align: end;
+	padding: 5px;
+}
