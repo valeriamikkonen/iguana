@@ -264,6 +264,16 @@ td img{
 }
 
 /* end video page */
+
+.yourcourses-title {
+	padding: 35px;
+}
+
+li {
+	text-align: center;
+	list-style-position: inside;
+	font-weight: bold;
+}
 .questions {
 	background-color: #ACD0BE;
 	padding: 50px;
