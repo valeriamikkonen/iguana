@@ -135,14 +135,11 @@ table{
 
 }
 th{
-
-	text-align: left;
 	padding: 5px;
 	color: #fff;
 	background:#acd0be;
 	font-family: Noto Sans JP;
 	font-weight: normal;
-
 }
 
 td{
