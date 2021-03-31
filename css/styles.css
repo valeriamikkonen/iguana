@@ -252,3 +252,8 @@ td img{
 	margin: 50px;
 	border: 5px dotted black;
 }
+
+.review {
+	padding: 20px;
+	align-text: left;
+}
