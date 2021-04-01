@@ -289,9 +289,6 @@ li {
 	border: 5px dotted black;
 }
 
-.socials {
-	width: 20px;
-	height: 20px;
-	text-align: end;
-	padding: 5px;
+.socialsmedia {
+	width: 10%
 }
