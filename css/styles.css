@@ -40,9 +40,40 @@ h2 {
 
 .courses {
 	padding-bottom: 20px;
-	margin-top: 50px;
+	margin-top: 50px;	
 }
 
+.contentpromo {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.buttontext {
+	color: white;
+	background-color: #acd0be;
+	outline: 0;	
+}
+
+.buttontext:hover {
+	color: #acd0be;
+	background-color: white; 
+	outline: 0;	
+}
+
+.buttontwo {
+	color: #acd0be;
+	background-color: white;
+	outline: 0;	
+}
+
+.buttontwo:hover {
+	background-color: black;
+	color: #acd0be;
+	outline: 0;	
+}
+.buttontwo:focus .buttontext:focus {
+	outline: 0;
+}
 .star {
 	color: goldenrod;
 }
@@ -138,14 +169,11 @@ table{
 
 }
 th{
-
-	text-align: left;
 	padding: 5px;
 	color: #fff;
 	background:#acd0be;
 	font-family: Noto Sans JP;
 	font-weight: normal;
-
 }
 
 td{
@@ -214,6 +242,11 @@ td img{
 	margin-bottom: 100px;
 }
 
+.greenbackground {
+	background: #acd0be;
+	padding: 30px;
+}
+
 .background-home {
 	background-color: #acd0be;
 }
@@ -240,7 +273,12 @@ td img{
 .login {
     width: 100%;
     text-align: center;
+	margin-top: 30px;
 	margin-bottom: 62px;
+}
+
+.hyperlink {
+	color: dimgray
 }
 
 /* end login page */
@@ -274,6 +312,17 @@ td img{
 }
 
 /* end video page */
+
+.yourcourses-title {
+	padding: 30px;
+	font-size: 40px;
+}
+
+li {
+	text-align: center;
+	list-style-position: inside;
+	font-weight: bold;
+}
 .questions {
 	background-color: #ACD0BE;
 	padding: 50px;
@@ -288,3 +337,20 @@ td img{
 	border: 5px dotted black;
 }
 
+.socialsmedia {
+	width: 10%
+}
+.text-button {
+	color: black;
+}
+.size-courses {
+	width: 360;
+	height: 540;
+}
+#background-vision {
+	background-color: white;
+}
+.margin-contact-button {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
