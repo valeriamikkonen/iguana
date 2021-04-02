@@ -261,7 +261,7 @@ td img{
 }
 
 .loginbar {
-	padding-bottom: 10px;
+	padding-bottom: 35px;
 	padding-top: 10px;
 }
 
@@ -273,9 +273,11 @@ td img{
 .login {
     width: 100%;
     text-align: center;
-	margin-top: 30px;
+	margin-top: 70px;
 	margin-bottom: 62px;
 }
+
+
 
 .hyperlink {
 	color: dimgray
@@ -353,4 +355,34 @@ li {
 .margin-contact-button {
 	margin-top: 30px;
 	margin-bottom: 50px;
+}
+
+/* course page */
+
+.yourcourses-management{
+	padding: 30px;
+	font-size: 40px;
+}
+.embed-responsive-item{
+		width: 1200px;
+
+	height: 600px
+}
+.container-management{
+	align-content: center;
+
+}
+.size-management{
+	width: 360;
+	height: 540;
+}
+
+.description-management{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.course-button{
+	padding-top: 30px;
+	padding-bottom:  50px;
 }
