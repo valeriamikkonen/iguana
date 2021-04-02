@@ -122,6 +122,7 @@ h1 {
 /*cart items*/
 
 .cart-page{
+	
 	margin: 80px auto;
 }
 
@@ -130,8 +131,10 @@ table{
 	border-collapse: collapse;
 }
 .cart-info{
+
     display: flex;
-    flex-wrap: wrap;
+    margin: auto;
+    align-content: center;
 
 }
 th{
@@ -147,6 +150,7 @@ th{
 
 td{
 	padding: 10px, 5px;
+	align-content: center
 }
 td input{
 	width: 40px;
@@ -158,6 +162,7 @@ td input{
 
 td a{
 	color: #acd0be;
+	align-content: center
 }
 
 td img{
@@ -168,7 +173,9 @@ td img{
 
 .wrapper{
 	width: 420px;
-	margin: 0 auto;
+	margin: auto;
+	align-content: center
+	justify-content: center;
 }
 .wrapper ul{
 	list-style: none;
