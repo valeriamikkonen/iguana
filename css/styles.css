@@ -330,3 +330,10 @@ li {
 	width: 360;
 	height: 540;
 }
+#background-vision {
+	background-color: white;
+}
+.margin-contact-button {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
