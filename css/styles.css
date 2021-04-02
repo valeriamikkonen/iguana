@@ -43,6 +43,27 @@ h2 {
 	margin-top: 50px;
 }
 
+.buttontext {
+	color: white;
+	background-color: #acd0be;
+	
+}
+
+.buttontext:hover {
+	color: #acd0be;
+	background-color: white; 
+}
+
+.buttontwo {
+	color: black;
+	background-color: white;
+}
+
+.buttontwo:hover {
+	background-color: black;
+	color: #acd0be;
+}
+
 .star {
 	color: goldenrod;
 }
@@ -230,7 +251,12 @@ td img{
 .login {
     width: 100%;
     text-align: center;
+	margin-top: 30px;
 	margin-bottom: 62px;
+}
+
+.hyperlink {
+	color: dimgray
 }
 
 /* end login page */
