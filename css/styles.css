@@ -40,30 +40,35 @@ h2 {
 
 .courses {
 	padding-bottom: 20px;
-	margin-top: 50px;
+	margin-top: 50px;	
 }
 
 .buttontext {
 	color: white;
 	background-color: #acd0be;
-	
+	outline: 0;	
 }
 
 .buttontext:hover {
 	color: #acd0be;
 	background-color: white; 
+	outline: 0;	
 }
 
 .buttontwo {
 	color: black;
 	background-color: white;
+	outline: 0;	
 }
 
 .buttontwo:hover {
 	background-color: black;
 	color: #acd0be;
+	outline: 0;	
 }
-
+.buttontwo:focus .buttontext:focus {
+	outline: 0;
+}
 .star {
 	color: goldenrod;
 }
