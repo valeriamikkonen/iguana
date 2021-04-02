@@ -235,6 +235,11 @@ td img{
 	margin-bottom: 100px;
 }
 
+.greenbackground {
+	background: #acd0be;
+	padding: 30px;
+}
+
 .background-home {
 	background-color: #acd0be;
 }
