@@ -21,6 +21,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
 	
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap" rel="stylesheet">
+	
 <title>Iguana - Profile</title>
 </head>
 
@@ -51,7 +54,7 @@
         <a class="nav-link" href="profile.html">Profile</a>
       </li>
 	    <li class="nav-item">
-        <a class="nav-link" href="https://valeriamikkonen.github.io/iguana/login.html">log in</a>
+        <a class="nav-link" href="https://valeriamikkonen.github.io/iguana/login.html">Log In</a>
       </li>
     </ul>
   </div>
@@ -59,36 +62,69 @@
 <!-- navigation ends -->
 
 	
-<!-- faq title starts -->
-<div class="container yourcourses-title"> 
-	<div class= "row">
-		<div class="col-12">
-			<h1 class="size-title">Frequently asked questions</h1>
-		</div>
+<!-- faq title starts --> 
+<div class= "row">
+	<div class="col-12">
+		<h1 class="size-title">Frequently Asked Questions</h1>
 	</div>
 </div>
 <!-- faq title ends -->
 
 <!-- questions start -->
-<div class="questions">
-<ol>
-	<li>What is Iguana?</li>
-	  <p>- Iguana is the perfect way to develop your professional skills and grow in your career. It is an online education page that offers courses from management to communication and marketing.</p>
-	<li>How do I subscribe to a course?</li>
-	  <p>- We are not a subscription based platform. You simply pay only for what you want. No additional fees.</p>
-	<li>How much do the courses cost?</li>
-	  <p>- You can check the prices of each course <a class="hyperlink" href="..">here.</a></p>
-	<li>I don’t want to continue the course. Can I get my money back?</li>
-	  <p>- Unfortunately, at the moment, we don’t offer returns. However, feel free to leave us feedback in the contact box below.</p>
-	<li>Do you have discounts for companies?</li>
-	  <p>- Yes! If you are interested in purchasing packages for your employees, contact us and we will give you the details.</p>
-	<li>How can I find the course I was watching?</li>
-	  <p>- If you want to get back to the courses you have already finished, or continue watching the ones you haven’t finished, you can find them in your <a class="hyperlink" href="https://valeriamikkonen.github.io/iguana/profile.html">profile.</a></p>
-</ol>
+	<p>
+  <a class="btn buttontext" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Iguana</a>
+  <button class="btn buttontext" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Payments</button>
+ <a class="btn buttontext" data-toggle="collapse" href="#multiCollapseExample3" role="button" aria-expanded="false" aria-controls="multiCollapseExample3">Courses</a>
+  <button class="btn buttontext" type="button" data-toggle="collapse" data-target="#multiCollapseExample4" aria-expanded="false" aria-controls="multiCollapseExample4">Profile</button>
+</p>
+<div class="row">
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample1">
+      <div class="card card-body">
+   <p>Iguana is the perfect way to develop your professional skills and grow in your career. It is an online education page that offers courses from management to communication and marketing.<br>
+	  To follow a course, simply register or log in, and select the course you want from the courses tab.<br><br>
+		  How do I subscribe to Iguana? <br>
+	We are not a subscription based platform. You simply pay only for what you want. No additional fees.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample2">
+      <div class="card card-body">
+<p>How much do the courses cost? <br>
+	You can check the prices of each course <a class="hyperlink" href="..">here.</a><br><br>
+	I don’t want to continue the course. Can I get my money back?<br>
+	Unfortunately, at the moment, we don’t offer returns.<br><br>
+	Do you have discounts for companies?<br>
+	Yes! If you are interested in purchasing packages for your employees, contact us and we will give you the details.
+		  </p>
+      </div>
+    </div>
+	   <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample3">
+      <div class="card card-body">
+<p>How can I find the course I was watching?<br>
+	If you want to get back to the courses you have already finished, or continue watching the ones you haven’t finished, you can find them in your <a class="hyperlink" href="https://valeriamikkonen.github.io/iguana/profile.html">profile.</a><br><br>
+		  </p>
+      </div>
+    </div>
+  </div>
+	 <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample4">
+      <div class="card card-body">
+<p>I don't have an account yet, where do I sign up? <br>
+	You can create an account with Iguana from <a class="hyperlink" href="register.html">here.</a><br><br>
+	Can I save videos to watch after I have finished my current course?<br>
+	Yes! Just find the course you want to save to your profile and press the save -icon.
+		  </p>
+      </div>
+    </div>
 </div>
+	
 <!-- questions end -->
 	
 <!-- contact us title starts -->
+<div class="contactbox">
 <div class="container yourcourses-title"> 
 	<div class= "row">
 		<div class="col-12">
@@ -98,9 +134,8 @@
 </div>
 <!-- contact us title ends -->
 	
-	<!-- contact box starts -->
-<div class="contactbox">
-<p>In case your question was not answered in the frequently asked section, feel free to send it below and we will be in touch with you!</p>
+<!-- contact box starts -->
+<p>In case your question was not answered in the frequently asked section, feel free to send it below, or other feedback that you want to give and we will be in touch with you!</p>
 <form>
   <div class="form-group">
     <label for="exampleFormControlInput1">Email address</label>
@@ -124,14 +159,16 @@
     </div>
 	 <div class="col-sm-9">
      <p class="text-right">Follow us at:</p>
-	 </div>
+		</div>
     <div class="col-sm-10,5">
 		  <a class="socialmedia" href="https://www.instagram.com/iguanaedu/"><img src="images/instagram-logo.jpeg" alt="Instagram" width="50" class="img-fluid"></a>
 		<a class="socialmedia" href="https://www.facebook.com/Iguana-103286131856063"><img src="images/facebook-logo.jpeg" alt="Facebook" width="35" class="img-fluid"></a>
     </div>
   </div>
 </div>
-	</footer>
+</footer>
+</div>
+</div>
 <!-- footer ends -->
 	
 <!-- Optional JavaScript -->
