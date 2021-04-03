@@ -422,7 +422,6 @@ li {
 	margin-bottom: 30px;
 	padding-left: 30px;
 	padding-top: 30px
-	padding-bottom: 30px;
 }
 
 .birthday {
@@ -456,4 +455,8 @@ li {
 
 .registerlist {
 	padding-bottom: 30px;
+}
+
+.registerfoto {
+	padding-top: 30px;
 }
