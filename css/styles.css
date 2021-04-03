@@ -203,17 +203,15 @@ small{
 }
 
 .wrapper{
-<<<<<<< HEAD
+
 	width: 600px;
 	margin-left: 190px;
 	display: flex;
 	align-content: center
-=======
+
 	width: 420px;
 	margin: auto;
 	align-content: center;
->>>>>>> 98675dfd5eb24e853b96d82dc988a839a4a1aab8
-	justify-content: center;
 }
 .wrapper ul{
 	list-style: none;
@@ -486,8 +484,6 @@ h5 {
 	padding-bottom: 30px;
 }
 
-
-
 .colorpalette {
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -498,3 +494,10 @@ h5 {
 margin-top: 30px;
 }
 
+.registerfoto {
+	padding-top: 30px;
+}
+
+.margin-button {
+	margin-bottom: 50px;
+}
