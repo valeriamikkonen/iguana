@@ -80,6 +80,10 @@ h2 {
 	color: goldenrod;
 }
 
+.contactus{
+	padding-bottom: 20px;
+}
+
 footer {
 	width: 100%;
 	padding: 10px;
@@ -282,6 +286,9 @@ td img{
 	margin-bottom: 62px;
 }
 
+.remember {
+	padding-top: 10px;
+}
 
 
 .hyperlink {
@@ -306,7 +313,7 @@ td img{
 	background: #acd0be;
 	padding-left: 140px;
 	padding-right: 140px;
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 	padding-top: 20px;
 }
 
