@@ -386,3 +386,66 @@ li {
 	padding-top: 30px;
 	padding-bottom:  50px;
 }
+
+/* register page */
+
+
+
+.register {
+    width: 100%;
+    text-align: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 30px;
+	padding-top: 30px
+	padding-bottom: 30px;
+}
+
+.nameregister {
+	text-align: left;
+}
+
+.e-mail {
+	    width: 100%;
+    text-align: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 30px;
+	padding-top: 30px
+	padding-bottom: 30px;
+}
+
+.password {
+	    width: 100%;
+    text-align: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 30px;
+	padding-top: 30px
+	padding-bottom: 30px;
+}
+
+.birthday {
+	    width: 100%;
+    text-align: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+    padding-left: 30px;
+	padding-top: 30px
+	padding-bottom: 30px;
+}
+
+#birthday {
+	background: #acd0be;
+	margin-left: 10px;
+}
+
+#submit {
+	background: #acd0be;
+	margin-left: 10px;
+}
+
+.registerimage img {
+	width: 400px;
+
+}
