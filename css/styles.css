@@ -432,7 +432,6 @@ li {
 	margin-bottom: 30px;
     padding-left: 30px;
 	padding-top: 30px
-	padding-bottom: 30px;
 }
 
 #birthday {
@@ -448,4 +447,13 @@ li {
 .registerimage img {
 	width: 400px;
 
+}
+
+.introregister {
+	padding-bottom: 30px;
+	padding-top: 50px;
+}
+
+.registerlist {
+	padding-bottom: 30px;
 }
