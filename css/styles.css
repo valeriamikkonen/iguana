@@ -339,7 +339,9 @@ td img{
 
 .contactbox {
 	background-color: #ACD0BE;
-	padding: 50px;
+	padding: 30px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 /* end helpdesk and profile page */
