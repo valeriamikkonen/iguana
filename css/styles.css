@@ -1,6 +1,7 @@
 /*color nav bar & our goal: #acd0be
 colors used in logo: #acd0be, #6ad892, #67d891
-font-family: 'Noto Sans JP', sans-serif;;*/ 
+font-family: 'Noto Sans JP', sans-serif;;
+font-family: 'Noto Sans JP', sans-serif;*/ 
 * { 
 	text-align: center;
 	margin: 0px;
@@ -36,6 +37,7 @@ nav {
 
 h2 {
 	color: black;
+	font-size: 40px;
 }
 
 .courses {
@@ -102,6 +104,9 @@ h2 {
 	font-family: 'Noto Sans JP', sans-serif;
 }
 h1 {
+	font-family: 'Noto Sans JP', sans-serif;
+}
+h3 {
 	font-family: 'Noto Sans JP', sans-serif;
 }
 .trending-margin {
@@ -202,7 +207,7 @@ td img{
 .wrapper{
 	width: 420px;
 	margin: auto;
-	align-content: center
+	align-content: center;
 	justify-content: center;
 }
 .wrapper ul{
@@ -315,28 +320,24 @@ td img{
 
 /* end video page */
 
+.saved-courses {
+	background: #acd0be;
+}
+
 .yourcourses-title {
 	padding: 30px;
 	font-size: 40px;
 }
 
-li {
-	text-align: center;
-	list-style-position: inside;
-	font-weight: bold;
-}
 .questions {
 	background-color: #ACD0BE;
 	padding: 50px;
-	margin: 50px;
-	border: 5px dotted black;
+	text-align: left;
 }
 
 .contactbox {
 	background-color: #ACD0BE;
 	padding: 50px;
-	margin: 50px;
-	border: 5px dotted black;
 }
 
 .socialsmedia {
