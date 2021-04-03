@@ -130,7 +130,8 @@ h1 {
 	margin-top: 40px; 
 }
 .size-title {
-	font-size: 75px;
+	font-size: 65px;
+	padding: 10px;
 }
 
 .searchbar {
@@ -179,13 +180,11 @@ th{
 td{
 	padding: 10px, 5px;
 	align-content: center
+	background-color: #acd0be;
 }
+
 td input{
-	width: 40px;
-	height: 30px;
-	padding: 5px;
-	background: #acd0be;
-	align-content: center
+	color: #acd0be;
 }
 
 td a{
@@ -199,10 +198,21 @@ td img{
 	margin-right: 10px
 }
 
+small{
+	font-size: 20px;
+}
+
 .wrapper{
+<<<<<<< HEAD
+	width: 600px;
+	margin-left: 190px;
+	display: flex;
+	align-content: center
+=======
 	width: 420px;
 	margin: auto;
-	align-content: center
+	align-content: center;
+>>>>>>> 98675dfd5eb24e853b96d82dc988a839a4a1aab8
 	justify-content: center;
 }
 .wrapper ul{
@@ -212,15 +222,15 @@ td img{
 
 .wrapper ul li{
     background: #acd0be;
-    width: 60px;
+    width: 180px;
     border: 1px solid #fff;
-    height: 25px;
+    height: 50px;
     line-height: 25px;
     text-align: center;
     float: left;
     color: #fff;
-    font-size: 10px;
-    position: relative;
+    font-size: 20px;
+    position: center;
     font-family: Noto Sans JP; 
 }
 
@@ -235,6 +245,27 @@ td img{
 .wrapper ul li:hover > ul{
 	display: block;
 
+}
+
+.buynow {
+	align-content: center;
+	justify-content: center;
+	display: flex;
+	padding-left: 130px;
+	padding-top: 10px;
+}
+
+.buttontext2 {
+	color: white;
+	background-color: #acd0be;
+	outline: 0;	
+	
+}
+
+.buttontext2:hover {
+	color: #acd0be;
+	background-color: white; 
+	outline: 0;	
 }
 
 .background-about {
@@ -315,28 +346,23 @@ td img{
 
 /* end video page */
 
-.yourcourses-title {
-	padding: 30px;
-	font-size: 40px;
+.questions {
+	padding: 50px;
+	text-align: center;
 }
 
-li {
-	text-align: center;
-	list-style-position: inside;
-	font-weight: bold;
+h5 {
+	font-weight: 700px;
 }
-.questions {
-	background-color: #ACD0BE;
-	padding: 50px;
-	margin: 50px;
-	border: 5px dotted black;
+
+.saved-courses {
+	background: #ACD0BE;
 }
 
 .contactbox {
 	background-color: #ACD0BE;
-	padding: 50px;
-	margin: 50px;
-	border: 5px dotted black;
+	padding: 60px;
+	margin: 0px;
 }
 
 .socialsmedia {
@@ -380,12 +406,15 @@ li {
 .description-management{
 	margin-top: 30px;
 	margin-bottom: 50px;
+	margin-right: 200px;
+	margin-left: 200px;
 }
 
 .course-button{
 	padding-top: 30px;
 	padding-bottom:  50px;
 }
+
 
 /* register page */
 
@@ -397,7 +426,7 @@ li {
 	margin-top: 30px;
 	margin-bottom: 30px;
 	padding-left: 30px;
-	padding-top: 30px
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
@@ -411,7 +440,7 @@ li {
 	margin-top: 30px;
 	margin-bottom: 30px;
 	padding-left: 30px;
-	padding-top: 30px
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
@@ -422,7 +451,6 @@ li {
 	margin-bottom: 30px;
 	padding-left: 30px;
 	padding-top: 30px
-	padding-bottom: 30px;
 }
 
 .birthday {
@@ -457,3 +485,16 @@ li {
 .registerlist {
 	padding-bottom: 30px;
 }
+
+
+
+.colorpalette {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.fontimage {
+	margin-bottom: 30px;
+margin-top: 30px;
+}
+
