@@ -179,7 +179,7 @@ th{
 
 td{
 	padding: 10px, 5px;
-	align-content: center
+	align-content: center;;
 	background-color: #acd0be;
 }
 
@@ -207,12 +207,10 @@ small{
 	width: 600px;
 	margin-left: 190px;
 	display: flex;
-	align-content: center
-
-	width: 420px;
-	margin: auto;
 	align-content: center;
+	margin: auto;
 }
+
 .wrapper ul{
 	list-style: none;
 	margin-top: 2%;
@@ -521,5 +519,16 @@ margin-top: 30px;
 }
 
 .quantity {
-	width: 90%;
+	width: 905;
+}
+
+.videodes {
+    padding-top: 10px;
+	width: 100%;
+	padding-bottom: 40px;
+}
+
+.backgroundcourses {
+	width: 160%;
+	padding-bottom: 40px;
 }
