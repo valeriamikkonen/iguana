@@ -519,3 +519,7 @@ margin-top: 30px;
 .basketitems {
 	padding-top: 10px;
 }
+
+.quantity {
+	width: 90%;
+}
