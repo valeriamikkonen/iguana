@@ -503,6 +503,8 @@ margin-top: 30px;
 
 .margin-button {
 	margin-bottom: 50px;
+<<<<<<< HEAD
+=======
 }
 .purchase-alignment {
 	text-align: center;
@@ -545,4 +547,5 @@ margin-top: 30px;
 
 .valeria-test {
 	transform: rotate(90deg);
+>>>>>>> 7cce74d566d02d24eb593eda1190a5ce80c6f12e
 }
