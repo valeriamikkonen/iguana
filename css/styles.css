@@ -340,6 +340,9 @@ small{
 	padding-top: 30px;
 }
 
+.pricecourse {
+	padding-top: 5px;
+}
 /* end video page */
 
 .questions {
@@ -468,14 +471,16 @@ h5 {
 	margin-left: 10px;
 }
 
-.registerimage img {
-	width: 400px;
-
+.introregister {
+	padding-top: 60px;
 }
 
-.introregister {
-	padding-bottom: 30px;
-	padding-top: 50px;
+.registertwo {
+	padding-top: 40px;
+}
+
+.registerpic {
+	padding-bottom: 60px;
 }
 
 .registerlist {
@@ -519,7 +524,6 @@ margin-top: 30px;
 }
 
 .quantity {
-<<<<<<< HEAD
 	width: 905;
 }
 
@@ -532,8 +536,6 @@ margin-top: 30px;
 .backgroundcourses {
 	width: 160%;
 	padding-bottom: 40px;
-=======
-	width: 90%;
 }
 
 .testing {
@@ -543,5 +545,15 @@ margin-top: 30px;
 
 .valeria-test {
 	transform: rotate(90deg);
->>>>>>> ed039dbb15bfe6c351fb330f1704ae028213343b
+}
+
+.justification {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.testing {
+	background-color: #acd0be;
+	background: cover;
+	margin: 0;
 }
