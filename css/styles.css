@@ -547,9 +547,21 @@ margin-top: 30px;
 	transform: rotate(90deg);
 }
 
+.layout {
+	border: solid 10px #acd0be;
+	padding: 20px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
 .justification {
 	padding-bottom: 20px;
 	padding-top: 20px;
+}
+
+h4 {
+	color: #acd0be;
+	font-weight: 700;
 }
 
 .testing {
