@@ -179,7 +179,7 @@ th{
 
 td{
 	padding: 10px, 5px;
-	align-content: center
+	align-content: center;;
 	background-color: #acd0be;
 }
 
@@ -207,12 +207,10 @@ small{
 	width: 600px;
 	margin-left: 190px;
 	display: flex;
-	align-content: center
-
-	width: 420px;
-	margin: auto;
 	align-content: center;
+	margin: auto;
 }
+
 .wrapper ul{
 	list-style: none;
 	margin-top: 2%;
@@ -342,6 +340,9 @@ small{
 	padding-top: 30px;
 }
 
+.pricecourse {
+	padding-top: 5px;
+}
 /* end video page */
 
 .questions {
@@ -470,14 +471,16 @@ h5 {
 	margin-left: 10px;
 }
 
-.registerimage img {
-	width: 400px;
-
+.introregister {
+	padding-top: 60px;
 }
 
-.introregister {
-	padding-bottom: 30px;
-	padding-top: 50px;
+.registertwo {
+	padding-top: 40px;
+}
+
+.registerpic {
+	padding-bottom: 60px;
 }
 
 .registerlist {
@@ -500,4 +503,49 @@ margin-top: 30px;
 
 .margin-button {
 	margin-bottom: 50px;
+<<<<<<< HEAD
+=======
+}
+.purchase-alignment {
+	text-align: center;
+}
+.buynow-margin {
+	margin-right: 130px;
+}
+
+.payment {
+	padding-top: 120px;
+	padding-bottom: 160px;
+}
+.basket {
+	background-color: #acd0be;
+}
+
+.basketitems {
+	padding-top: 10px;
+}
+
+.quantity {
+	width: 905;
+}
+
+.videodes {
+    padding-top: 10px;
+	width: 100%;
+	padding-bottom: 40px;
+}
+
+.backgroundcourses {
+	width: 160%;
+	padding-bottom: 40px;
+}
+
+.testing {
+	margin: 80px;
+	padding: 20px;
+}
+
+.valeria-test {
+	transform: rotate(90deg);
+>>>>>>> 7cce74d566d02d24eb593eda1190a5ce80c6f12e
 }
