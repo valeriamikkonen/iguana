@@ -519,6 +519,7 @@ margin-top: 30px;
 }
 
 .quantity {
+<<<<<<< HEAD
 	width: 905;
 }
 
@@ -531,4 +532,16 @@ margin-top: 30px;
 .backgroundcourses {
 	width: 160%;
 	padding-bottom: 40px;
+=======
+	width: 90%;
+}
+
+.testing {
+	margin: 80px;
+	padding: 20px;
+}
+
+.valeria-test {
+	transform: rotate(90deg);
+>>>>>>> ed039dbb15bfe6c351fb330f1704ae028213343b
 }
