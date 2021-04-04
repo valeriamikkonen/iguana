@@ -501,3 +501,13 @@ margin-top: 30px;
 .margin-button {
 	margin-bottom: 50px;
 }
+.purchase-alignment {
+	text-align: center;
+}
+.payment-margin {
+	margin-left: 162px;
+	margin-bottom: 100px;
+}
+.buynow-margin {
+	margin-right: 130px;
+}
