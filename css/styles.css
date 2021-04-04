@@ -232,7 +232,6 @@ small{
     float: left;
     color: #fff;
     font-size: 20px;
-    position: center;
     font-family: Noto Sans JP; 
 }
 
@@ -580,6 +579,5 @@ h4 {
 
 .testing {
 	background-color: #acd0be;
-	background: cover;
 	margin: 0;
 }
