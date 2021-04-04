@@ -19,7 +19,7 @@ header {
 }
 
 button {
-	align-content: right;
+	align-content: end;
 	color: white;
 }
 
@@ -184,7 +184,7 @@ th{
 }
 
 td{
-	padding: 10px, 5px;
+	padding: 10px 5px;
 	align-content: center;;
 	background-color: #acd0be;
 }
@@ -327,7 +327,7 @@ small{
 
 .reviewtitle {
 	color: white;
-	padding: -30px;
+	padding: 30px;
 }
 
 .review {
@@ -357,7 +357,7 @@ small{
 }
 
 h5 {
-	font-weight: 700px;
+	font-weight: 700;
 }
 
 .saved-courses {
@@ -377,8 +377,8 @@ h5 {
 	color: black;
 }
 .size-courses {
-	width: 360;
-	height: 540;
+	width: 360px;
+	height: 540px;
 }
 #background-vision {
 	background-color: white;
@@ -404,8 +404,8 @@ h5 {
 
 }
 .size-management{
-	width: 360;
-	height: 540;
+	width: 360px;
+	height: 540px;
 }
 
 .description-management{
@@ -530,7 +530,7 @@ margin-top: 30px;
 }
 
 .quantity {
-	width: 905;
+	width: 905px;
 }
 
 .videodes {
