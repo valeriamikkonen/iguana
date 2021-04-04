@@ -507,3 +507,15 @@ margin-top: 30px;
 .buynow-margin {
 	margin-right: 130px;
 }
+
+.payment {
+	padding-top: 120px;
+	padding-bottom: 160px;
+}
+.basket {
+	background-color: #acd0be;
+}
+
+.basketitems {
+	padding-top: 10px;
+}
